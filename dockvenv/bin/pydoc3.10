@@ -1,0 +1,5 @@
+#!/Users/davidibrahim/Programming/mlops1/dockercompose/dockvenv/bin/python3.10
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()
